@@ -18,5 +18,5 @@ I am a 3rd-year Computer Science student based in Cairo, Egypt, with a passion f
 - **Development:** Python
 - **Professional Skills:** Tech Sales, Solution Architecture, Problem Solving.
 ## 🌐 Connect with Me
-- [LinkedIn]([[LINK_TO_YOUR_LINKEDIN]](https://www.linkedin.com/in/abanoub-emad-747a161a7/?skipRedirect=true)
+- [[LinkedIn](https://www.linkedin.com/in/abanoub-emad-747a161a7/?skipRedirect=true)]
 - [Portfolio/Email](mailto:[abanobemad447@gmail.com])
