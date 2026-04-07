@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm [Abanoub Emad ] 👋
 
-<!--
-**Abanoubemad447-dev/Abanoubemad447-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Cloud Engineer
+I am a 3rd-year Computer Science student based in Cairo, Egypt, with a passion for building scalable infrastructure and bridging the gap between technical solutions and business needs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **Education:** Computer Science Student (Class of 2026).
+- 🏆 **Certifications:** AWS Certified Solutions Architect – Associate (SAA-C03).
+- 💼 **Experience:** 2+ years in Sales Acquisition Management (US Market).
+- 🎯 **Current Focus:** Preparing for Microsoft Azure Administrator (AZ-104) and mastering Infrastructure as Code (Terraform).
+- ♟️ **Fun Fact:** I'm a competitive chess player (Rated ~2200).
+
+## 🛠 Tech Stack
+- **Cloud:** AWS SAA (Certified), Microsoft Az-104 (In Progress).
+- **DevOps & IaC:** Terraform, Docker,Git
+- **Development:** Python
+- **Professional Skills:** Tech Sales, Solution Architecture, Problem Solving.
+## 🌐 Connect with Me
+- [LinkedIn]([LINK_TO_YOUR_LINKEDIN](https://www.linkedin.com/in/abanoub-emad-747a161a7/?skipRedirect=true)])
+- [Portfolio/Email](mailto:[abanobemad447@gmail.com])
